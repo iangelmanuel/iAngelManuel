@@ -83,7 +83,7 @@
     <h2> 📊 <ᴍʏ ᴀᴄᴛɪᴠɪᴛɪᴇꜱ /> </h2>
   </summary>
 
-  <div style="display: flex; justify-content: center; item-content: center; gap: 2px;">
+  <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=iAngelManuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
