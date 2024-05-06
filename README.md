@@ -46,24 +46,24 @@
 
 ## - ʟᴀɴɢᴜᴀɢᴇ
 
-[![language](https://skillicons.dev/icons?i=html,css,js,ts,php)]
+![language](https://skillicons.dev/icons?i=html,css,js,ts,php)
 
 ## - ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ
 
-[![technologies](https://skillicons.dev/icons?i=cloudflare,vercel,react,nodejs,nextjs,astro,vite,express,nest,laravel,prisma,postgres,mongodb,mysql,pug,tailwind)]
+![technologies](https://skillicons.dev/icons?i=cloudflare,vercel,react,nodejs,nextjs,astro,vite,express,nest,laravel,prisma,postgres,mongodb,mysql,pug,tailwind)
 
 ## - ꜱᴏꜰᴛᴡᴀʀᴇ
 
-[![software](https://skillicons.dev/icons?i=docker,figma,notion,ps,postman,powershell,visualstudio,vscode,windows,apple)]
+![software](https://skillicons.dev/icons?i=docker,figma,notion,ps,postman,powershell,visualstudio,vscode,windows,apple)
 
 ## - ᴍʏ ꜰᴀᴠᴏʀɪᴛᴇ ꜱᴛᴀᴄᴋ
 
-[![mystack1](https://skillicons.dev/icons?i=nextjs,prisma,postgres,tailwind)]
+![mystack1](https://skillicons.dev/icons?i=nextjs,prisma,postgres,tailwind)
 
   <br>
   <br>
 
-[![mystack2](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)]
+![mystack2](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)
 
 </details>
 
