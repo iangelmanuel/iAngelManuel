@@ -31,6 +31,9 @@
     <h2> 🧑‍💻 <ᴀʙᴏᴜᴛ ᴍᴇ /> </h2>
   </summary>
 
+  <p  align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
   <h4>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> ʜɪ, ɪ'ᴍ ᴀɴɢᴇʟ ᴅᴇ ʟᴀ ᴛᴏʀʀᴇ ᴀɴᴅ ᴛʜᴇꜱᴇ ᴀʀᴇ ꜱᴏᴍᴇ ᴛʜɪɴɢꜱ ᴀʙᴏᴜᴛ ᴍᴇ:
   </h4>
@@ -44,6 +47,9 @@
 - 🌟 ᴍᴀɪɴ ʟᴀɴɢᴜᴀɢᴇꜱ: ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ᴛʏᴘᴇꜱᴄʀɪᴘᴛ.
 - 🚀 ꜱᴇᴇᴋɪɴɢ ᴏᴘᴘᴏʀᴛᴜɴɪᴛɪᴇꜱ ɪɴ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴏꜰ ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴꜱ.
 
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </p>
+
 </details>
 
 <hr>
@@ -52,6 +58,9 @@
   <summary>
     <h2> 🤹‍♂️ <ᴍʏ ꜱᴋɪʟʟꜱ /> </h2>
   </summary>
+
+<p  align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## - ʟᴀɴɢᴜᴀɢᴇ
 
@@ -73,6 +82,9 @@
   <br>
 
 ![mystack2](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 </details>
 
@@ -112,9 +124,15 @@
     <h2> 💌 <ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ /> </h2>
   </summary>
 
+  <p  align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 - 📫 ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴘʀᴏᴊᴇᴄᴛ ɪᴅᴇᴀꜱ, ꜱᴇɴᴅ ᴍᴇ ᴀɴ ᴇᴍᴀɪʟ ᴀᴛ [ᴍʏ ᴇᴍᴀɪʟ](mailto:iangelmanuel02@gmail.com)
 - 📝 ʜᴀᴠᴇ ᴀ ʟᴏᴏᴋ ᴀᴛ ᴍʏ ᴘᴏʀᴛꜰᴏʟɪᴏ: [ᴍʏ ᴘᴏʀᴛꜰᴏʟɪᴏ](https://iangeldelatorre.com)
 - 📲 ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ: [ʟɪɴᴋᴇᴅɪɴ](https://www.linkedin.com/in/iangelmanueldm)
+
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </p>
 
 </details>
 
