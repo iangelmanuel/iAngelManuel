@@ -95,10 +95,10 @@
 - 📝 ʜᴀᴠᴇ ᴀ ʟᴏᴏᴋ ᴀᴛ ᴍʏ ᴘᴏʀᴛꜰᴏʟɪᴏ: [ᴍʏ ᴘᴏʀᴛꜰᴏʟɪᴏ](https://iangeldelatorre.com)
 - 📲 ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ: [ʟɪɴᴋᴇᴅɪɴ](https://www.linkedin.com/in/iangelmanueldm)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=30&pause=1000&color=4411EE&random=false&width=435&lines=Hi%2C+I'm+Angel+DM+%F0%9F%AB%A1;JavaScript+Programmer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Web+Developer+%F0%9F%93%84;I+love+learning+new+things+%F0%9F%8C%A0;I'm+creative+to+create+new+designs+%E2%9C%8F%EF%B8%8F;I+love+React+js+%F0%9F%A9%B5;I+love+to+program+with+TypeScript+%F0%9F%92%99;My+favorite+Framework+is+Next+js+%F0%9F%94%BA;I+always+use+Tailwindcss%2C+is+very+cool+%F0%9F%8E%A8;I+am+super+organized+%F0%9F%91%8C" alt="Typing SVG" />
-</a>
-
 </details>
 
 <hr>
+
+<div align="center">
+  <h5>With 🩵 Angel DM</h5>
+</div>
