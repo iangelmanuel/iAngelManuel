@@ -83,19 +83,26 @@
     <h2> 📊 <ᴍʏ ᴀᴄᴛɪᴠɪᴛɪᴇꜱ /> </h2>
   </summary>
 
-  <div align="center" style="display: flex; justify-content: space-between;">
+  <p  align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](https://github-readme-stats.vercel.app/api?username=iAngelManuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<table border="0" align="center">
+  <tr border="0">
+  <td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iAngelManuel&theme=dark&hide_border=true&show_icons=true&count_private=true" />
+  <br></br>
+  <img alt="Angel DM" src="https://github-readme-streak-stats.herokuapp.com/?user=iAngelManuel&theme=dark&hide_border=true" />
+  </td>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iAngelManuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iAngelManuel&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+  </tr>
+</table>
 
-  </div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-  <div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=iAngelManuel&theme=dark&hide_border=false)
-
-  </div>
 </details>
 
 <hr>
