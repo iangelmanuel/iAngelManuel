@@ -24,6 +24,8 @@
   </a>
 </div>
 
+<hr>
+
 <details open="">
   <summary>
     <h2> 🧑‍💻 <ᴀʙᴏᴜᴛ ᴍᴇ /> </h2>
