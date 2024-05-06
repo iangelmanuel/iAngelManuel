@@ -83,11 +83,15 @@
     <h2> 📊 <ᴍʏ ᴀᴄᴛɪᴠɪᴛɪᴇꜱ /> </h2>
   </summary>
 
-  <div align="center">
+  <div align="center" style="display: flex; justify-content: space-between;">
 
 ![](https://github-readme-stats.vercel.app/api?username=iAngelManuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iAngelManuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+  </div>
+
+  <div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iAngelManuel&theme=dark&hide_border=false)
 
