@@ -3,16 +3,25 @@
 </div>
 
 <div style="display: flex; justify-content: center; gap: 2px;" align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-LinkedIn?logo=linkedin&logoColor=white&logoSize=60&labelColor=black&color=black&link=https%3A%2F%2Fgithub.com%2FiAngelManuel">
+  <a href="https://www.linkedin.com/in/iangelmanueldm">
+    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-LinkedIn?logo=linkedin&logoColor=white&logoSize=60&labelColor=black&color=black&link=https%3A%2F%2Fgithub.com%2FiAngelManuel">
+  </a>
 
-  <img alt="Static Badge" src="https://img.shields.io/badge/My_portfolio-My_portfolio?logo=serverfault&logoColor=white&logoSize=60&labelColor=black&color=black">
+  <a href="https://iangeldelatorre.com">
+    <img alt="Static Badge" src="https://img.shields.io/badge/My_portfolio-My_portfolio?logo=serverfault&logoColor=white&logoSize=60&labelColor=black&color=black">
+  </a>
 
-  <img alt="Static Badge" src="https://img.shields.io/badge/X-X?logo=x&logoColor=white&logoSize=60&labelColor=black&color=black&link=https%3A%2F%2Fgithub.com%2FiAngelManuel">
+  <a href="https://twitter.com/iangelmanuel">
+    <img alt="Static Badge" src="https://img.shields.io/badge/X-X?logo=x&logoColor=white&logoSize=60&labelColor=black&color=black&link=https%3A%2F%2Fgithub.com%2FiAngelManuel">
+  </a>
 
-  <img alt="Static Badge" src="https://img.shields.io/badge/instagram-Instagram?logo=instagram&logoColor=white&logoSize=60&labelColor=black&color=black&link=https%3A%2F%2Fgithub.com%2FiAngelManuel">
+  <a href="https://instagram.com/iangelmanuel">
+    <img alt="Static Badge" src="https://img.shields.io/badge/instagram-Instagram?logo=instagram&logoColor=white&logoSize=60&labelColor=black&color=black&link=https%3A%2F%2Fgithub.com%2FiAngelManuel">
+  </a>
 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Github-black?logo=github&logoColor=white&logoSize=60&labelColor=black&color=black&link=https%3A%2F%2Fgithub.com%2FiAngelManuel">
-
+  <a href="https://github.com/iAngelManuel">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Github-black?logo=github&logoColor=white&logoSize=60&labelColor=black&color=black&link=https%3A%2F%2Fgithub.com%2FiAngelManuel">
+  </a>
 </div>
 
 <hr>
@@ -77,16 +86,18 @@
 
 <hr>
 
-<details>
+<details open="">
   <summary>
     <h2> 💌 <ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ /> </h2>
   </summary>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45" alt="Typing things animation">
-  </a>
-</p>
+- 📫 ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴘʀᴏᴊᴇᴄᴛ ɪᴅᴇᴀꜱ, ꜱᴇɴᴅ ᴍᴇ ᴀɴ ᴇᴍᴀɪʟ ᴀᴛ [ᴍʏ ᴇᴍᴀɪʟ](mailto:iangelmanuel02@gmail.com)
+- 📝 ʜᴀᴠᴇ ᴀ ʟᴏᴏᴋ ᴀᴛ ᴍʏ ᴘᴏʀᴛꜰᴏʟɪᴏ: [ᴍʏ ᴘᴏʀᴛꜰᴏʟɪᴏ](https://iangeldelatorre.com)
+- 📲 ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ: [ʟɪɴᴋᴇᴅɪɴ](https://www.linkedin.com/in/iangelmanueldm)
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=30&pause=1000&color=4411EE&random=false&width=435&lines=Hi%2C+I'm+Angel+DM+%F0%9F%AB%A1;JavaScript+Programmer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Web+Developer+%F0%9F%93%84;I+love+learning+new+things+%F0%9F%8C%A0;I'm+creative+to+create+new+designs+%E2%9C%8F%EF%B8%8F;I+love+React+js+%F0%9F%A9%B5;I+love+to+program+with+TypeScript+%F0%9F%92%99;My+favorite+Framework+is+Next+js+%F0%9F%94%BA;I+always+use+Tailwindcss%2C+is+very+cool+%F0%9F%8E%A8;I+am+super+organized+%F0%9F%91%8C" alt="Typing SVG" />
+</a>
 
 </details>
 
