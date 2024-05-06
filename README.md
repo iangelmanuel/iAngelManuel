@@ -82,6 +82,16 @@
   <summary>
     <h2> 📊 <ᴍʏ ᴀᴄᴛɪᴠɪᴛɪᴇꜱ /> </h2>
   </summary>
+
+  <div style="display: flex; justify-content: center; item-content: center; gap: 2px;">
+
+![](https://github-readme-stats.vercel.app/api?username=iAngelManuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iAngelManuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=iAngelManuel&theme=dark&hide_border=false)
+
+  </div>
 </details>
 
 <hr>
